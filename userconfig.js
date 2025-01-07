@@ -69,6 +69,19 @@ const CONFIG = new Config({
           }
         ]
       },
+      {
+        name: 'Work',
+        links:[
+          {
+            name: 'notion',
+            url: 'https://notion.so/'
+          },
+          {
+            name: 'github',
+            url: 'https://github.com/'
+          }
+        ]
+      }
      
       ]
     },
@@ -125,6 +138,7 @@ const CONFIG = new Config({
           ]
         },
       ]
-    }]
+    }
+  ]
   });
   
